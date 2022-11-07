@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://github.com/AngelikaZgr/co-.git
+- Leaflet Map https://angelikazgr.github.io/co-/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1Cvmpfrn7JVsoBbVV7FjqT_v3ZHNuFUHZgfz60UB1gWI/edit#gid=0
 
 ## Create Your Own
